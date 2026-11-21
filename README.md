@@ -20,6 +20,8 @@
 
 ## 🚀 About Laya-Torch
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 **Laya-Torch** is the official PyTorch port of the groundbreaking [Laya](https://github.com/Voltaic/laya-mlx) project. Originally restricted to Apple Silicon (via Apple's MLX framework), this project brings the same deterministic, typed decision-making engine to **Windows**, **Linux**, and any hardware supported by PyTorch (CUDA, ROCm, CPU).
 
 Laya-Torch provides a robust, high-performance **System One** decision model, built on ModernBERT. It is designed to make rapid, typed micro-decisions (e.g., scoring, boolean classification, dynamic routing) for autonomous AI agents, ensuring predictability, safety, and scale.
